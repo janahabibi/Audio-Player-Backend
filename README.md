@@ -1,6 +1,6 @@
 # Java Audio Player Back End System
 
-This Java work provides a user-friendly audio system where users can manage playlists, view song details, and even print song lyrics, with many more other features. It is built using object-oriented programming principles with comprehensive error handling, unit tests, classes, and inheritance.
+This Java work provides a user-friendly text based audio system where users can manage playlists, view song details, and even print song lyrics, with many more other features. It is built using object-oriented programming principles with comprehensive error handling, unit tests, classes, and inheritance.
 
 ## Features
 
